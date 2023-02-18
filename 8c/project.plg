@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\filip\Desktop\Patryk Lipiñski\8c\Project.uvproj
+Project File Date:  03/04/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+linking...
+Program Size: Code=1640 RO-data=36 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+".\Project.axf" - 0 Errors, 0 Warning(s).

@@ -1,0 +1,13 @@
+Dependencies for Project 'Project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x51C80D6E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\Studia\KEIL\ARM\RV31\INC-I D:\Studia\KEIL\ARM\CMSIS\Include-I D:\Studia\KEIL\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.cpp)(0x62212B44)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Studia\KEIL\ARM\RV31\INC-I D:\Studia\KEIL\ARM\CMSIS\Include-I D:\Studia\KEIL\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (D:\Studia\PPO\Patryk Lipiñski\5\stepper.h)(0x62221721)
+I (D:\Studia\PPO\Patryk Lipiñski\5\led.h)(0x62212AA2)
+I (D:\Studia\KEIL\ARM\ARMCC\include\stdio.h)(0x51C80BA4)
+F (.\led.cpp)(0x621F809A)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Studia\KEIL\ARM\RV31\INC-I D:\Studia\KEIL\ARM\CMSIS\Include-I D:\Studia\KEIL\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (D:\Studia\KEIL\ARM\Inc\Philips\LPC21xx.H)(0x51C80D9C)
+I (D:\Studia\PPO\Patryk Lipiñski\5\led.h)(0x62212AA2)
+F (.\led.h)(0x62212AA2)()
+F (.\stepper.cpp)(0x62212B3A)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\Studia\KEIL\ARM\RV31\INC-I D:\Studia\KEIL\ARM\CMSIS\Include-I D:\Studia\KEIL\ARM\Inc\Philips-o .\stepper.o --omf_browse .\stepper.crf --depend .\stepper.d)
+I (D:\Studia\PPO\Patryk Lipiñski\5\stepper.h)(0x62221721)
+I (D:\Studia\PPO\Patryk Lipiñski\5\led.h)(0x62212AA2)

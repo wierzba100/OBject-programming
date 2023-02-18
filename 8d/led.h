@@ -1,0 +1,13 @@
+#define LED0_bm (1<<16)
+#define LED1_bm (1<<17)
+#define LED2_bm (1<<18)
+#define LED3_bm (1<<19)
+
+class Led {
+
+	public :
+		Led(void);
+		void On(unsigned char);
+
+} ;
+
